@@ -6,7 +6,7 @@ Project made for reading and writing on an EEPROM memory through I2C communicati
 By clicking on the memory icon, the microcontroller connects to the interface, if the operation was successful, the icon is painted green:
 ![init_comm_with_pic](https://user-images.githubusercontent.com/91303136/231665353-b3f5cc53-864f-4c17-850c-a500a5e3aab9.jpg)
 
-To start the writing process click on the Data icon:
+To start the writing process click on the Data icon\n:
 ![start_writting](https://user-images.githubusercontent.com/91303136/231665803-ee1a1a4c-fc96-4e82-b210-20f2025bb3f8.jpg)
 
 Set the data value and the data address. Then click on the button "Write Data" and wait until the progress bar is completed:
