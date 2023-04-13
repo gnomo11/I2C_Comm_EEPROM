@@ -1,8 +1,6 @@
 # I2C_Comm_EEPROM
-I2C communication with GUI  developed in Python
 
-Project made for reading and writing on an EEPROM memory through I2C communication through the PIC18F45K50 microcontroller
-
+Project made for reading and writing on an EEPROM memory through I2C communication through the PIC18F45K50 microcontroller and a GUI  developed in Python
 ![i2c_eeprom_gui](https://user-images.githubusercontent.com/91303136/231664657-6685d7d9-f600-4dee-9c7f-2120ec0b984b.jpg)
 
 By clicking on the memory icon, the microcontroller connects to the interface, if the operation was successful, the icon is painted green:
