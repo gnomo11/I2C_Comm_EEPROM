@@ -9,7 +9,7 @@ By clicking on the memory icon, the microcontroller connects to the interface, i
 To start the writing process click on the Data icon:
 ![start_writting](https://user-images.githubusercontent.com/91303136/231665803-ee1a1a4c-fc96-4e82-b210-20f2025bb3f8.jpg)
 
-Set the data value and the data address. Then click on the button "Write Data" and wait until the progress bar is completed
+Set the data value and the data address. Then click on the button "Write Data" and wait until the progress bar is completed:
 ![data_saved](https://user-images.githubusercontent.com/91303136/231666102-92a73ebd-33fe-4ebc-a572-f9a0983904c9.jpg)
 
 To read the stored data just set the data address to be read:
